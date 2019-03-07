@@ -30,9 +30,9 @@
     {% endif %}
     {% if user.company %}
       <div class="{{ metadata_styles }}">
-        {% octicon mail height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:company %}
-        <a href="mailto:{{ user.company }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-          {{ user.company }}
+        {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
+        <a href="www.chorally.com" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          @{{ user.company }}
         </a>
       </div>
     {% endif %}
