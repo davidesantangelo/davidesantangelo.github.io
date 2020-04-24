@@ -4,7 +4,7 @@ My personal github page based on the template taken from the github/personal-web
 
 ## Live
 
-Live at [GitHub Page](davidesantangelo.github.io)
+Live at [GitHub Page](https://davidesantangelo.github.io)
 
 ## References:
 
