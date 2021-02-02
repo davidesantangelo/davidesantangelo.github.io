@@ -1,6 +1,6 @@
 # GitHub Page
 
-My personal github page based on the template taken from the github/personal-website repository. 
+My personal GitHub page based on the template taken from the github/personal-website repository. 
 
 ## Live
 
